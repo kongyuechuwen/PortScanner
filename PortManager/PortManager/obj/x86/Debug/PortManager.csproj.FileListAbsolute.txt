@@ -1,0 +1,7 @@
+c:\users\zheng wen\documents\visual studio 2010\Projects\PortManager\PortManager\bin\Debug\PortManager.exe
+c:\users\zheng wen\documents\visual studio 2010\Projects\PortManager\PortManager\bin\Debug\PortManager.pdb
+c:\users\zheng wen\documents\visual studio 2010\Projects\PortManager\PortManager\obj\x86\Debug\PortManager.Form1.resources
+c:\users\zheng wen\documents\visual studio 2010\Projects\PortManager\PortManager\obj\x86\Debug\PortManager.Properties.Resources.resources
+c:\users\zheng wen\documents\visual studio 2010\Projects\PortManager\PortManager\obj\x86\Debug\PortManager.csproj.GenerateResource.Cache
+c:\users\zheng wen\documents\visual studio 2010\Projects\PortManager\PortManager\obj\x86\Debug\PortManager.exe
+c:\users\zheng wen\documents\visual studio 2010\Projects\PortManager\PortManager\obj\x86\Debug\PortManager.pdb
