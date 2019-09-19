@@ -4,3 +4,7 @@
 程序采用vs2010 c# 开发。
 主要参考了
 https://code.msdn.microsoft.com/windowsdesktop/C-Sample-to-list-all-the-4817b58f
+
+快捷键esc，用于定位到端口输入框。
+
+程序大小为29.00kb，直接下载地址
